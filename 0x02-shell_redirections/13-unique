@@ -1,2 +1,2 @@
 #!/bin/bash
-set | unique -u
+set | uniq -u
